@@ -11,26 +11,26 @@
           <span></span>
         </span>
       </div>
-      <div class="navbar-menu">
-        <div class="navbar-end">
+      <!--<div class="navbar-menu">-->
+        <!--<div class="navbar-end">-->
 
-          <a v-for="i in menu"
-             class="navbar-item"
-             :class="{'is-active': i.active}"
-             @click="setActive(i)">
+          <!--<a v-for="i in menu"-->
+             <!--class="navbar-item"-->
+             <!--:class="{'is-active': i.active}"-->
+             <!--@click="setActive(i)">-->
 
-            <i class="icon fa-fw fal" :class="i.icon"></i>
-            <span>{{ i.name }}</span>
-          </a>
+            <!--<i class="icon fa-fw fal" :class="i.icon"></i>-->
+            <!--<span>{{ i.name }}</span>-->
+          <!--</a>-->
 
-          <span class="navbar-item">
-            <a class="button is-primary is-inverted">
-              <i class="icon fal fa-pen-alt"></i>
-              <span>Contact</span>
-            </a>
-          </span>
-        </div>
-      </div>
+          <!--<span class="navbar-item">-->
+            <!--<a class="button is-primary is-inverted">-->
+              <!--<i class="icon fal fa-pen-alt"></i>-->
+              <!--<span>Contact</span>-->
+            <!--</a>-->
+          <!--</span>-->
+        <!--</div>-->
+      <!--</div>-->
     </div>
   </nav>
 </template>

@@ -2,7 +2,7 @@
   <div class="home">
     <Header></Header>
     <PlayGround></PlayGround>
-    <Footer></Footer>
+    <!--<Footer></Footer>-->
   </div>
 </template>
 

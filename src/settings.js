@@ -1,6 +1,6 @@
 const settings = {
   url: 'http://localhost:8000/',
-  title: 'Title',
+  title: 'Vue-kRPC',
 }
 
 export default settings

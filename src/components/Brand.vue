@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="title">
-      My<span>Title</span>
+      Vue<span>kRPC</span>
     </h1>
   </div>
 </template>
